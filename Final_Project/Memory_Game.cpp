@@ -1898,7 +1898,7 @@ Player Level_10 (int timer_select, int life_nbr, int score){
 
                             counter ++ ;
                             LCD_Clear();
-                            LCD_GoTo(5,0);
+                            LCD_GoTo(4,0);
                             LCD_WriteText("LEVEL 10");
                             LCD_GoTo(3,1);
                             LCD_WriteText("*");
@@ -1920,7 +1920,7 @@ Player Level_10 (int timer_select, int life_nbr, int score){
 
                         counter ++ ;
                         //LCD_Clear();
-                        LCD_GoTo(5,0);
+                        LCD_GoTo(4,0);
                         LCD_WriteText("LEVEL 10");
                         LCD_GoTo(4,1);
                         LCD_WriteText("*");
@@ -1941,7 +1941,7 @@ Player Level_10 (int timer_select, int life_nbr, int score){
 
                                             counter ++ ;
                                             //LCD_Clear();
-                                            LCD_GoTo(5,0);
+                                            LCD_GoTo(4,0);
                                             LCD_WriteText("LEVEL 10");
                                             LCD_GoTo(5,1);
                                             LCD_WriteText("*");
@@ -1963,7 +1963,7 @@ Player Level_10 (int timer_select, int life_nbr, int score){
 
                                         counter ++ ;
                                         //LCD_Clear();
-                                        LCD_GoTo(5,0);
+                                        LCD_GoTo(4,0);
                                         LCD_WriteText("LEVEL 10");
                                         LCD_GoTo(6,1);
                                         LCD_WriteText("*");
@@ -1985,7 +1985,7 @@ Player Level_10 (int timer_select, int life_nbr, int score){
 
                                         counter ++ ;
                                         //LCD_Clear();
-                                        LCD_GoTo(5,0);
+                                        LCD_GoTo(4,0);
                                         LCD_WriteText("LEVEL 10");
                                         LCD_GoTo(7,1);
                                         LCD_WriteText("*");
@@ -2006,7 +2006,7 @@ Player Level_10 (int timer_select, int life_nbr, int score){
 
                                                             counter ++ ;
                                                             //LCD_Clear();
-                                                            LCD_GoTo(5,0);
+                                                            LCD_GoTo(4,0);
                                                             LCD_WriteText("LEVEL 10");
                                                             LCD_GoTo(8,1);
                                                             LCD_WriteText("*");
@@ -2028,7 +2028,7 @@ Player Level_10 (int timer_select, int life_nbr, int score){
 
                                                         counter ++ ;
                                                         //LCD_Clear();
-                                                        LCD_GoTo(5,0);
+                                                        LCD_GoTo(4,0);
                                                         LCD_WriteText("LEVEL 10");
                                                         LCD_GoTo(9,1);
                                                         LCD_WriteText("*");
@@ -2050,7 +2050,7 @@ Player Level_10 (int timer_select, int life_nbr, int score){
 
                                                         counter ++ ;
                                                         //LCD_Clear();
-                                                        LCD_GoTo(5,0);
+                                                        LCD_GoTo(4,0);
                                                         LCD_WriteText("LEVEL 10");
                                                         LCD_GoTo(10,1);
                                                         LCD_WriteText("*");
@@ -2073,8 +2073,8 @@ Player Level_10 (int timer_select, int life_nbr, int score){
 
                                                         counter ++ ;
                                                         //LCD_Clear();
-                                                        LCD_GoTo(5,0);
-                                                        LCD_WriteText("LEVEL 5");
+                                                        LCD_GoTo(4,0);
+                                                        LCD_WriteText("LEVEL 10");
                                                         LCD_GoTo(11,1);
                                                         LCD_WriteText("*");
                                                         _delay_ms(100) ;
@@ -2097,7 +2097,7 @@ Player Level_10 (int timer_select, int life_nbr, int score){
 
                                                         counter ++ ;
                                                         //LCD_Clear();
-                                                        LCD_GoTo(5,0);
+                                                        LCD_GoTo(4,0);
                                                         LCD_WriteText("LEVEL 10");
                                                         LCD_GoTo(12,1);
                                                         LCD_WriteText("*");
